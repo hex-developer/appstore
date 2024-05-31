@@ -19,7 +19,7 @@
       "environment": {
         "PASSWORD": "${CODE_SERVER_PASSWORD}",
         "SUDO_PASSWORD": "${CODE_SERVER_SUDO_PASSWORD}",
-        "DEFAULT_WORKSPACE": "/projects",
+        "DEFAULT_WORKSPACE": "/config/workspace",
         "TZ": "${TZ}"
       }
     }
