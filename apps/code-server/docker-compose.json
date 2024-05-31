@@ -11,10 +11,6 @@
           "containerPath": "/config",
           "hostPath": "${APP_DATA_DIR}/data/config"
         },
-        {
-          "containerPath": "/projects",
-          "hostPath": "${APP_DATA_DIR}/data/projects"
-        }
       ],
       "environment": {
         "PASSWORD": "${CODE_SERVER_PASSWORD}",
