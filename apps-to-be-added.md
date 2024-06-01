@@ -7,9 +7,8 @@
 | code-server   | yes   |
 | deluge        | yes   |
 | filebrowser   | yes   |
-| glance        | yes   |
 | homarr        | yes   |
-| homepage      | no    |
+| homepage      | yes   |
 | invidious     | no    |
 | it-tools      | no    |
 | jackett       | no    |
