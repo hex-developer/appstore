@@ -9,7 +9,7 @@
 | filebrowser   | yes   |
 | homarr        | yes   |
 | homepage      | yes   |
-| invidious     | no    |
+| invidious     | yes   |
 | it-tools      | no    |
 | jackett       | no    |
 | jellyfin      | no    |
@@ -63,3 +63,12 @@
     }
 ]
 ```
+
+- Arch specific compose files
+
+```
+docker-compose.json // x86
+docker-compose.arm64.json // arm64
+```
+
+- Internal port shouldn't required if the service is not main
