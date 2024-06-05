@@ -10,12 +10,12 @@
 | homarr        | yes   |
 | homepage      | yes   |
 | invidious     | yes   |
-| it-tools      | no    |
+| it-tools      | yes   |
 | jackett       | no    |
 | jellyfin      | no    |
 | lidarr        | no    |
 | navidrome     | no    |
-| nextcloud     | no    |
+| nextcloud     | yes   |
 | ollama-cpu    | no    |
 | ollama-amd    | no    |
 | ollama-nvidia | no    |
