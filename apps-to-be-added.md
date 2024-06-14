@@ -9,7 +9,7 @@
 | filebrowser   | yes   |
 | homarr        | yes   |
 | homepage      | yes   |
-| immich        | no   |
+| immich        | yes   |
 | invidious     | yes   |
 | it-tools      | yes   |
 | jackett       | yes   |
@@ -23,7 +23,7 @@
 | pihole        | yes   |
 | plausible     | yes   |
 | plex          | yes   |
-| portainer     | no    |
+| portainer     | yes   |
 | prowlarr      | no    |
 | qbitorrent    | no    |
 | radarr        | no    |
@@ -36,6 +36,16 @@
 | zerotier      | no    |
 | lodestone     | no    |
 | gitea         | no    |
+| duplicati     | no    |
+| syncthing     | no    |
+| freshrss      | no    |
+| homeassistant | no    |
+| homebridge    | no    |
+| node-red      | no    |
+| n8n           | no    |
+| photoprism    | no    |
+| mealie        | no    |
+| calibre       | no    |
 
 ### Required compose generation featurs missing from runtipi
 
